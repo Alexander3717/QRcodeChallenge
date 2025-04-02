@@ -30,7 +30,7 @@ body {
     box-shadow: 0px 25px 25px rgba(0, 0 ,0 , 0.0477);
 }
 
-#qrcard h2 {
+#qrcard h1 {
     font-size: 22px;
     letter-spacing: 0px;
     line-height: 120%;
