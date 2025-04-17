@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.png)
 
 ### Links
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-made-using-flexbox-iitj-UcSSr](https://www.frontendmentor.io/solutions/qr-code-component-made-using-flexbox-iitj-UcSSr)
-- Live Site URL: [https://alexander3717.github.io/QRcodeChallenge/](https://alexander3717.github.io/QRcodeChallenge/)
+- Solution URL: [View solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-made-using-flexbox-iitj-UcSSr)
+- Live Site URL: [View live site](https://alexander3717.github.io/QRcodeChallenge/)
 
 ## Built with
 CSS Flexbox
